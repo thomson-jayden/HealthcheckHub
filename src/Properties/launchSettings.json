@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HealthcheckHub": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7105",
+      "launchBrowser": false
+    }
+  }
+}
